@@ -1,0 +1,11 @@
+So here it is. Me trying to wipe out files and using git at the same time.
+Hard task.. let's go.
+
+I created a new file and before adding it I tried to use
+
+git rm my_file.txt
+
+Git didn't found the file, so git rm is valid just for tracked ones.
+
+I'll add this one and see how things go.
+
