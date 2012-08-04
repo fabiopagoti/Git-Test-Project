@@ -1,5 +1,6 @@
 int DoSomething()
 {
 // always document work code
+// I want to see the output of git diff --cached now
  return 0;
 }
