@@ -1,1 +1,0 @@
-Removing file directly from Finder, Explorer or terminal using rm (and not git rm)
