@@ -1,0 +1,5 @@
+int DoSomething()
+{
+// always document work code
+ return 0;
+}
