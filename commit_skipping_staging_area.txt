@@ -1,0 +1,10 @@
+I'll commit stuff without git add.. won't I?
+
+Haha! It seems not... not for new files at least. Please add me first, then change me and try:
+
+git commit -m -a
+
+Ok, so I have added the file.. but of course I need to change it (using this line) to test git commit -a
+
+By the way, -a is the option which skips staging area
+
