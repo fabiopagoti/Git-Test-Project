@@ -1,0 +1,5 @@
+It's very easy to add verbose to your git commit. Just use
+
+git commit -v
+
+\o/
