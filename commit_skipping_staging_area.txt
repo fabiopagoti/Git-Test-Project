@@ -6,5 +6,7 @@ git commit -m -a
 
 Ok, so I have added the file.. but of course I need to change it (using this line) to test git commit -a
 
+OMG!! Worked!!! After commit the modified file not tracked was commited... next topic.
+
 By the way, -a is the option which skips staging area
 
