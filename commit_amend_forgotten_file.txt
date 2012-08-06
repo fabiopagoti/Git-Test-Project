@@ -1,0 +1,3 @@
+This file was forgotten!
+git add didn't include it and now we should use
+git commit --amend
