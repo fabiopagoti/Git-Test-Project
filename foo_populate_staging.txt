@@ -1,3 +1,0 @@
-I need to have a stagind area with something there before running
-
-git commit --amend
